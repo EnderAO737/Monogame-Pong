@@ -5,9 +5,35 @@
   <Config />
   <SourceFiles>
     <File>C:/Users/alexa/Documents/GitHub/Monogame-Pong/Development/Pong/Content/ball.png</File>
+    <File>C:/Users/alexa/Documents/GitHub/Monogame-Pong/Development/Pong/Content/net.png</File>
+    <File>C:/Users/alexa/Documents/GitHub/Monogame-Pong/Development/Pong/Content/Number0 7x10.png</File>
+    <File>C:/Users/alexa/Documents/GitHub/Monogame-Pong/Development/Pong/Content/Number1 7x10.png</File>
+    <File>C:/Users/alexa/Documents/GitHub/Monogame-Pong/Development/Pong/Content/Number2 7x10.png</File>
+    <File>C:/Users/alexa/Documents/GitHub/Monogame-Pong/Development/Pong/Content/Number3 7x10.png</File>
+    <File>C:/Users/alexa/Documents/GitHub/Monogame-Pong/Development/Pong/Content/Number4 7x10.png</File>
+    <File>C:/Users/alexa/Documents/GitHub/Monogame-Pong/Development/Pong/Content/Number5 7x10.png</File>
+    <File>C:/Users/alexa/Documents/GitHub/Monogame-Pong/Development/Pong/Content/Number6 7x10.png</File>
+    <File>C:/Users/alexa/Documents/GitHub/Monogame-Pong/Development/Pong/Content/Number7 7x10.png</File>
+    <File>C:/Users/alexa/Documents/GitHub/Monogame-Pong/Development/Pong/Content/Number8 7x10.png</File>
+    <File>C:/Users/alexa/Documents/GitHub/Monogame-Pong/Development/Pong/Content/Number9 7x10.png</File>
     <File>C:/Users/alexa/Documents/GitHub/Monogame-Pong/Development/Pong/Content/paddle.png</File>
+    <File>C:/Users/alexa/Documents/GitHub/Monogame-Pong/Development/Pong/Content/playerLost.png</File>
+    <File>C:/Users/alexa/Documents/GitHub/Monogame-Pong/Development/Pong/Content/playerWon.png</File>
   </SourceFiles>
   <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
     <File xsi:nil="true" />
     <File xsi:nil="true" />
   </DestFiles>

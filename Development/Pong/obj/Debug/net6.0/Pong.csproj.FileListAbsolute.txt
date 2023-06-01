@@ -1,5 +1,4 @@
 C:\Users\alexa\Documents\GitHub\Monogame-Pong\Development\Pong\bin\Debug\net6.0\Content\ball.xnb
-C:\Users\alexa\Documents\GitHub\Monogame-Pong\Development\Pong\bin\Debug\net6.0\Content\paddle.xnb
 C:\Users\alexa\Documents\GitHub\Monogame-Pong\Development\Pong\bin\Debug\net6.0\Pong.exe
 C:\Users\alexa\Documents\GitHub\Monogame-Pong\Development\Pong\bin\Debug\net6.0\Pong.deps.json
 C:\Users\alexa\Documents\GitHub\Monogame-Pong\Development\Pong\bin\Debug\net6.0\Pong.runtimeconfig.json
@@ -25,3 +24,17 @@ C:\Users\alexa\Documents\GitHub\Monogame-Pong\Development\Pong\obj\Debug\net6.0\
 C:\Users\alexa\Documents\GitHub\Monogame-Pong\Development\Pong\obj\Debug\net6.0\Pong.pdb
 C:\Users\alexa\Documents\GitHub\Monogame-Pong\Development\Pong\obj\Debug\net6.0\Pong.genruntimeconfig.cache
 C:\Users\alexa\Documents\GitHub\Monogame-Pong\Development\Pong\obj\Debug\net6.0\ref\Pong.dll
+C:\Users\alexa\Documents\GitHub\Monogame-Pong\Development\Pong\bin\Debug\net6.0\Content\paddle.xnb
+C:\Users\alexa\Documents\GitHub\Monogame-Pong\Development\Pong\bin\Debug\net6.0\Content\net.xnb
+C:\Users\alexa\Documents\GitHub\Monogame-Pong\Development\Pong\bin\Debug\net6.0\Content\Number0 7x10.xnb
+C:\Users\alexa\Documents\GitHub\Monogame-Pong\Development\Pong\bin\Debug\net6.0\Content\Number1 7x10.xnb
+C:\Users\alexa\Documents\GitHub\Monogame-Pong\Development\Pong\bin\Debug\net6.0\Content\Number2 7x10.xnb
+C:\Users\alexa\Documents\GitHub\Monogame-Pong\Development\Pong\bin\Debug\net6.0\Content\Number3 7x10.xnb
+C:\Users\alexa\Documents\GitHub\Monogame-Pong\Development\Pong\bin\Debug\net6.0\Content\Number4 7x10.xnb
+C:\Users\alexa\Documents\GitHub\Monogame-Pong\Development\Pong\bin\Debug\net6.0\Content\Number5 7x10.xnb
+C:\Users\alexa\Documents\GitHub\Monogame-Pong\Development\Pong\bin\Debug\net6.0\Content\Number6 7x10.xnb
+C:\Users\alexa\Documents\GitHub\Monogame-Pong\Development\Pong\bin\Debug\net6.0\Content\Number7 7x10.xnb
+C:\Users\alexa\Documents\GitHub\Monogame-Pong\Development\Pong\bin\Debug\net6.0\Content\Number8 7x10.xnb
+C:\Users\alexa\Documents\GitHub\Monogame-Pong\Development\Pong\bin\Debug\net6.0\Content\Number9 7x10.xnb
+C:\Users\alexa\Documents\GitHub\Monogame-Pong\Development\Pong\bin\Debug\net6.0\Content\playerLost.xnb
+C:\Users\alexa\Documents\GitHub\Monogame-Pong\Development\Pong\bin\Debug\net6.0\Content\playerWon.xnb
