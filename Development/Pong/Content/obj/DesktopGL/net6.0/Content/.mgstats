@@ -1,0 +1,3 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"C:/Users/alexa/Documents/GitHub/Monogame-Pong/Development/Pong/Content/ball.png","C:/Users/alexa/Documents/GitHub/Monogame-Pong/Development/Pong/Content/bin/DesktopGL/Content/ball.xnb","TextureProcessor","Texture2DContent",469,2585,0.1020692
+"C:/Users/alexa/Documents/GitHub/Monogame-Pong/Development/Pong/Content/paddle.png","C:/Users/alexa/Documents/GitHub/Monogame-Pong/Development/Pong/Content/bin/DesktopGL/Content/paddle.xnb","TextureProcessor","Texture2DContent",165,120085,0.0038766
